@@ -79,6 +79,3 @@ Les données sont fictives. Les résultats obtenus (proches de 100 % de précisi
 - **Polymorphisme / duck typing** : `ClinicalPredictor` fonctionne avec n'importe quel modèle possédant une méthode `predict()`.
 - **Séparation entraînement / prédiction** : le `Trainer` apprend, le `ClinicalPredictor` diagnostique avec un modèle figé.
 
-## Avertissement
-
-Projet pédagogique. Il ne doit pas être utilisé pour un vrai diagnostic médical.
